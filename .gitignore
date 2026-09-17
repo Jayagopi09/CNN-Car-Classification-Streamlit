@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+env/
+.venv/
+
+# Dataset
+dataset/
+data/
+images/
+
+# OS files
+.DS_Store
+Thumbs.db
